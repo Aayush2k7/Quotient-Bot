@@ -1,1 +1,1 @@
-from .panel import TagCheckPanel
+from quotient.panel import TagCheckPanel

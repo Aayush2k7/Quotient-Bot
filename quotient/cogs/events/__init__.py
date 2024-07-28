@@ -1,4 +1,4 @@
-from .startup import StartupEvents
+from quotient.startup import StartupEvents
 
 
 async def setup(bot):

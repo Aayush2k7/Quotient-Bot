@@ -1,2 +1,2 @@
-from .scrims import ScrimSlashCommands
-from .tourneys import TourneySlashCommands
+from quotient.scrims import ScrimSlashCommands
+from quotient.tourneys import TourneySlashCommands
