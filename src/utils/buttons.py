@@ -4,7 +4,7 @@ from typing import List, NamedTuple, Optional, Union
 
 import discord
 
-from .emote import TextChannel, VoiceChannel
+from quotient.emote import TextChannel, VoiceChannel
 
 
 class LinkType(NamedTuple):
