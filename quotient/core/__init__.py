@@ -1,4 +1,4 @@
-from .bot import BOT_INSTANCE, Quotient
-from .ctx import Context
-from .embeds import EmbedBuilder
-from .views import PromptView, QuoView
+from quotient.bot import BOT_INSTANCE, Quotient
+from quotient.ctx import Context
+from quotient.embeds import EmbedBuilder
+from quotient.views import PromptView, QuoView
