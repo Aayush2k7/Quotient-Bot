@@ -6,7 +6,7 @@ from lib import INFO, YOUTUBE
 
 from quotient.models import YtNotification
 
-from .yt_setup import SetupNewYt
+from quotient.yt_setup import SetupNewYt
 
 
 class YtNotificationView(QuoView):
