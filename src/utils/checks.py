@@ -5,7 +5,7 @@ from discord.ext.commands import CheckFailure, Context, has_any_role
 
 from models import Guild, User
 
-from .exceptions import *
+from quotient.exceptions import *
 
 
 def has_done_setup():
