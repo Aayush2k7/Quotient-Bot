@@ -1,2 +1,2 @@
-from .scrims import ScrimsEvents
-from .tagcheck import TagCheckEvents
+from quotient.scrims import ScrimsEvents
+from quotient.tagcheck import TagCheckEvents
